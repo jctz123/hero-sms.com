@@ -2,8 +2,10 @@
 # HeroSMS - 在线接码平台 | 全球虚拟手机号短信验证码服务（Receive SMS Online）
 
 <p align="center">
-专业的 <strong>在线接码平台（Receive SMS Online）</strong>，提供全球虚拟手机号、SMS Verification、OTP 验证码接收服务，支持 <strong>700+</strong> 网站和 App，并提供开发者 API，帮助个人用户、开发者和企业快速完成短信验证码验证。
+专业的<strong>在线接码平台（Receive SMS Online）</strong>，提供全球虚拟手机号、SMS Verification、OTP 验证码接收服务，支持 <strong>700+</strong> 网站和 App，并提供开发者 API，帮助个人用户、开发者和企业快速完成短信验证码验证。
 </p>
+
+<img width="1325" height="692" alt="HeroSMS在线接码平台" src="https://github.com/user-attachments/assets/c082a48f-fb61-4f33-8731-9a04a6acc335" />
 
 <p align="center">
 
@@ -17,6 +19,10 @@
 🌐 **官方网站：** [https://hero-sms.com](https://hero-sms.com/?ref=738474)
 
 📖 **API 文档：** [https://hero-sms.com/api](https://hero-sms.com/api?ref=738474)
+
+从2025年12月22日，SMS-Activate平台停运后, SMS-Activate推荐用户使用HeroSMS接码平台，上手和使用成本就能大大降低。
+
+<img width="1408" height="686" alt="SMS-Activate平台停运后" src="https://github.com/user-attachments/assets/c8e8cc50-bce2-4b93-9973-ea6fbe236ec8" />
 
 ## 📚 目录
 
