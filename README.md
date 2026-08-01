@@ -26,17 +26,17 @@
 
 ## 📚 目录
 
-- HeroSMS是什么？
-- 为什么选择HeroSMS？
-- 核心功能
-- 支持的平台
-- 支持的国家
-- 使用场景
-- 快速开始
-- API 接口
-- HeroSMS vs 传统接码平台
-- 常见问题（FAQ）
-- 官方链接
+- [HeroSMS是什么？](#herosms-是什么)
+- [为什么选择HeroSMS？](#-为什么选择-herosms)
+- [核心功能](#-核心功能features)
+- [支持的国家](#-支持国家)
+- [支持的平台](#-支持-700-网站和-app)
+- [使用场景](#-使用场景use-cases)
+- [快速开始](#-快速开始getting-started)
+- [API 接口](#-api-接口)
+- [HeroSMS vs 传统接码平台](#-herosms-vs-传统接码平台)
+- [常见问题（FAQ）](#-常见问题faq)
+- [官方链接](#-官方链接)
 
 ## HeroSMS 是什么？
 
