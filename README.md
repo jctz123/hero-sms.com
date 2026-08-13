@@ -1,4 +1,3 @@
-
 # HeroSMS - 在线接码平台 | 全球虚拟手机号短信验证码服务（Receive SMS Online）
 
 <p align="center">
@@ -312,4 +311,6 @@ HeroSMS 提供临时号码及部分长期号码服务，可根据业务需求选
 - 📝 提交 Issue
 - 🚀 提交 Pull Request
 
-你的每一个 Star 都是我们持续优化产品的动力！⭐ 如果这个项目对你有所帮助，欢迎 Star！
+你的每一个 Star 都是我们持续优化产品的动力！  
+
+⭐ 如果这个项目对你有所帮助，欢迎 Star！
