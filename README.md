@@ -101,7 +101,7 @@ HeroSMS 适用于：
 
 ## 🌍 支持国家
 
-HeroSMS 提供全球多个国家和地区的虚拟手机号，包括但不限于：
+HeroSMS 提供全球180多个国家和地区的虚拟手机号，包括但不限于：
 
 - 🇺🇸 美国（United States）
 - 🇬🇧 英国（United Kingdom）
