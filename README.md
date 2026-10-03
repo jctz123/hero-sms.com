@@ -1,7 +1,7 @@
 # HeroSMS - 在线接码平台 | 全球虚拟手机号短信验证码服务（Receive SMS Online）
 
 <p align="center">
-专业的<strong>在线接码平台（Receive SMS Online）</strong>，提供全球虚拟手机号、SMS Verification、OTP 验证码接收服务，支持 <strong>700+</strong> 网站和 App，并提供开发者 API，帮助个人用户、开发者和企业快速完成短信验证码验证。
+    专业的<strong>在线接码平台（Receive SMS Online）</strong>，提供全球虚拟手机号、SMS Verification、OTP 验证码接收服务，支持 <strong>700+</strong> 网站和 App，并提供开发者 API，帮助个人用户、开发者和企业快速完成短信验证码验证。
 </p>
 
 <img width="1325" height="692" alt="HeroSMS在线接码平台" src="https://github.com/user-attachments/assets/c082a48f-fb61-4f33-8731-9a04a6acc335" />
