@@ -5,6 +5,8 @@
 </p>
 
 
+> 公告： [https://hero-sms.com](https://hero-sms.com/?ref=738474) 迁移至 [https://hero-sms.io](https://hero-sms.io/?ref=738474)
+
 <img width="1325" height="692" alt="HeroSMS在线接码平台" src="https://github.com/user-attachments/assets/c082a48f-fb61-4f33-8731-9a04a6acc335" />
 
 <p align="center">
