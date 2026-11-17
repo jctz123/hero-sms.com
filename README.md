@@ -4,6 +4,9 @@
     专业的<strong>在线接码平台（Receive SMS Online）</strong>，提供全球虚拟手机号、SMS Verification、OTP 验证码接收服务，支持 <strong>700+</strong> 网站和 App，并提供开发者 API，帮助个人用户、开发者和企业快速完成短信验证码验证。
 </p>
 
+**HeroSMS专属优惠码**
+- 优惠码：`clashsub`
+- 优惠说明：直升2级会员，享15%消费折扣！
 
 > 公告： [https://hero-sms.com](https://hero-sms.com/?ref=738474) 迁移至 [https://hero-sms.io](https://hero-sms.io/?ref=738474)
 
